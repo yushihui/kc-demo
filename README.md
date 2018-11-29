@@ -1,3 +1,6 @@
+# Branching & Tagging & Release
+* please follow git-flow rules http://confluence.netbraintech.com/confluence/pages/viewpage.action?pageId=72558317
+* tagging & release conventions http://confluence.netbraintech.com/confluence/pages/viewpage.action?pageId=75282809
 # How to build
 ### Build
 1. Change your source code which under src folder
