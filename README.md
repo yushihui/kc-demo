@@ -9,7 +9,7 @@
 4. tagging
 5. draft a release
 ### Examples
-* nbr build -s(ource) driver -o folderx----------------### build all drivers and export to folderx
-* nbr build -s(ource) driver/xyz -o foldery------------### just build driver xyz to foldery
+* nbr build -s(ource) driver -o folderX----------------### build all drivers and export to folder x
+* nbr build -s(ource) driver/xyz -o folderY------------### just build driver xyz to folder y
 * nbr build--------------------------------------------### build all resources under current folder
 * nbr patch -b(ase) v7.1.0 -head v8.0.0 -o folder------### generate a patch package for upgrade v7.0.0 to v8.0.0
